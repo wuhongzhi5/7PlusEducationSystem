@@ -1,80 +1,56 @@
-# seven-plus-eduction-system
+# seven-plus-eduction-system(柒加后台管理系统)
 
-## 后台管理系统
+## 3.项目技术--vue
 
-### 1.产品设计协作平台
-
-1.1.蓝湖官网地址
+#### 3.1.vue3.0文档
 
 ```http
-https://lanhuapp.com/
+https://v3.vuejs.org/
 ```
 
-1.2.蓝湖账号
-
-```bash
-账号: 346907648@qq.com
-密码: 1234567890
-```
-
-1.3.蓝湖使用文档
+#### 3.2.composition-api文档
 
 ```http
-https://lanhu.kf5.com/hc/kb/article/1173434/
+https://composition-api.vuejs.org/api.html
 ```
 
-### 2.后台管理系统接口
-
-2.1 接口地址
-
-```bash
-地址: http://pte.admin.api.banyuge.com/admin/doc.html
-用户名: admin
-密码: admin123
-```
-
-### 3.项目技术--vue
-
-3.1.vue2.0文档
+#### 3.3.Vuex文档
 
 ```http
-https://cn.vuejs.org/v2/guide/
+https://vuex.vuejs.org/
 ```
 
-3.2.composition-api组件
+#### 3.4.Vue Router文档
 
 ```http
-https://www.npmjs.com/package/@vue/composition-api
+https://next.router.vuejs.org/
 ```
 
-3.3.vuex文档
+## 4.echarts数据可视化工具
 
 ```http
-https://vuex.vuejs.org/zh/guide/
-```
-
-### 4.echarts数据可视化工具
-
-```bash
-两可插件库可以相互参考
 https://echarts.apache.org/zh/index.html
-
-https://v-charts.js.org/#/
 ```
 
-### 5.Element UI文档
+## 5.Ant Design Vue文档
 
 ```http
-https://element.eleme.cn/2.14/#/zh-CN/component/layout
+https://2x.antdv.com/docs/vue/introduce-cn/
 ```
 
-### 6.项目规范
+## 6.命名规范
+
+```http
+https://www.yuque.com/moxikr/vuets/grn60s
+```
+
+## 7.项目规范
 
 ```bash
 参考项目规范.md文件
 ```
 
-### 注意
+## 注意
 
 ```bash
 项目出现任何问题在gitgub提lssues  (lssues使用方法参考项目规范.md文件)
